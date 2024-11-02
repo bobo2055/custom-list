@@ -631,6 +631,7 @@ analytics-*.aasaam.com
 ||receiver-metis.infeng.site^
 ||tjk-njk.com^
 ||tapsell.ir^
+||googleads.g.doubleclick.net^
 
 
 @@||cmp.inmobi.com^|
