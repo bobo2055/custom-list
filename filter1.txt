@@ -5,6 +5,8 @@
 !
 !
 ||app-measurement.com^
+||doubleclick.com^
+||doubleclick.net^
 ||ad.*.doubleclick.net^
 ||doubleclick.net^$third-party
 ||ad.intl.xiaomi.com^
@@ -633,6 +635,8 @@ analytics-*.aasaam.com
 
 @@||cmp.inmobi.com^|
 @@||analytics.amplitude.com^|
+@@||pagead.l.doubleclick.net^|
+@@||5471782.fls.doubleclick.net^|
 
 
 
