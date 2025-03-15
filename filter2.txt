@@ -20,7 +20,6 @@
 ||gov.ir^
 ||justice.ir^
 ||irica.gov.ir^
-||eghtesadonline.com^
 ||irib.ir^
 ||mci.ir^
 ||irancell.ir^
