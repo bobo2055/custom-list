@@ -43,3 +43,46 @@
 ||banktosee.ir^
 ||bank-ansar.ir^
 ||bank-resalat.ir^
+||e3.tax.gov.ir^  # National Tax Administration
+||eblagh1.adliran.ir^  # Sana System
+||141.ir^  # Road Information Center
+||fids.airport.ir^  # Flight Information Display System
+||epolice.ir^  # Electronic Police Services
+||tamin.ir^  # Social Security Organization
+||sabteahval.ir^  # National Organization for Civil Registration
+||seo.ir^  # Securities and Exchange Organization
+||tsetmc.com^  # Tehran Securities Exchange Technology Management Co.
+||irimo.ir^  # Meteorological Organization
+||31.24.238.89^  # Air Quality Control Company
+||ssaa.ir^  # Organization for Registration of Deeds and Properties
+||adliran.ir^  # Electronic Judiciary Services
+||najatracking.post.ir^  # Postal Tracking System
+||sokht.epolice.ir:7001^  # Fuel Card Tracking
+||cbi.ir^  # Central Bank of Iran
+||bmi.ir^  # Bank Melli Iran
+||postbank.ir^  # Post Bank
+||tejaratbank.ir^  # Bank Tejarat
+||refah-bank.ir^  # Bank Refah
+||banksepah.ir^  # Bank Sepah
+||ghbi.ir^  # Bank Ghavamin
+||bki.ir^  # Bank Keshavarzi
+||bank-maskan.ir^  # Bank Maskan
+||ansarbank.com^  # Bank Ansar
+||sb24.com^  # Bank Saman
+||bpi.ir^  # Bank Pasargad
+||bankmellat.ir^  # Bank Mellat
+||parsian-bank.ir^  # Bank Parsian
+||sbank.ir^  # Bank Sarmaye
+||bsi.ir^  # Bank Saderat Iran
+||centinsur.ir^  # Central Insurance of Iran
+||iraninsurance.ir^  # Iran Insurance
+||dana-insurance.com^  # Dana Insurance
+||alborzinsurance.ir^  # Alborz Insurance
+||mic.co.ir^  # Moallem Insurance
+||bimehma.com^  # Ma Insurance
+||parsianinsurance.ir^  # Parsian Insurance
+||atiyehsazan.ir^  # Atiyeh Sazan
+||bimehasia.com^  # Asia Insurance
+||bimito.com^  # Bimito
+||namava.ir^  # Namava
+||filimo.com^  # Filimo
